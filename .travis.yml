@@ -1,0 +1,5 @@
+os_ximage: xcode10.1
+language: swift
+xcode_project: LoginRefactor.xcodeproj # path to your xcodeproj folder
+xcode_scheme: LoginRefactor
+xcode_destination: platform=iOS Simulator,OS=11.0,name=iPhone 8
